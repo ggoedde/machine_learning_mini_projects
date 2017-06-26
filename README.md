@@ -6,11 +6,6 @@ learning algorithms and tools.
 
 ## Projects
 
-#### Time series with LSTM on meteorological data <br /> 
-     Time series prediction using LSTM in TensorFlow on monthly average temperature in England from 1723-1970.  
-     
-     ML Algorithms: 
-     -LSTM
      
 #### Classification on spiral dataset <br />
      Classification on 2D spiral dataset using Scikit-learn and TensorFlow.
@@ -20,7 +15,7 @@ learning algorithms and tools.
      -SVM with Gaussian RBF
      -Multi-layer Neural Network  
      
-#### Deep neural network from scratch <br />
+#### Neural network from scratch <br />
      Deep neural network from scratch (i.e. using Numpy)
      
      ML Algorithms:
@@ -34,6 +29,18 @@ learning algorithms and tools.
      -Regression (Ordinary, Ridge, Elastic Net)
      -Random Forest
      -Gradient Boosting
+
+#### TensorFlow Examples
+     Very simple linear regression implemented while learning TensorFlow.
+     
+     ML Algorithms:
+     -Linear Regression
+     
+#### Time series with LSTM on meteorological data <br /> 
+     Time series prediction using LSTM in TensorFlow on monthly average temperature in England from 1723-1970.  
+     
+     ML Algorithms: 
+     -LSTM
      
 #### Transfer learning with deep neural network <br />
      Apply transfer learning to MNIST using deep neural network in TensorFlow:
@@ -49,11 +56,5 @@ learning algorithms and tools.
      ML Algorithms:
      -word2vec
      
-#### Simple linear regression in TensorFlow
-     Very simple linear regression implemented while learning TensorFlow.
      
-     ML Algorithms:
-     -Linear Regression
-     
-
 Run on TensorFlow 1.1.0, Python 3.5+
